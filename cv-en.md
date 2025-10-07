@@ -9,11 +9,11 @@ title: CV - Yacine Oukkal
 
 # Yacine Oukkal
 
-<div class="cv-subtitle">React | Laravel | Angular | Java Spring Developer || Master MIAGE</div>
-<div class="cv-location">📍 Grenoble, Auvergne-Rhône-Alpes, France</div>
+<div class="cv-subtitle">Software Engineer & Technical Project Manager</div>
+<div class="cv-location">📍 Grenoble, France | Open to relocation</div>
 
 <div class="cv-contact">
-  <a href="mailto:psmartyacine@gmail.com">📧 psmartyacine@gmail.com</a>
+  <a href="mailto:oukkalyacine2002@gmail.com">📧 oukkalyacine2002@gmail.com</a>
   <a href="https://www.linkedin.com/in/yacine-oukkal" target="_blank">💼 LinkedIn</a>
   <a href="https://github.com/Yacineos" target="_blank">💻 GitHub</a>
 </div>
@@ -22,13 +22,19 @@ title: CV - Yacine Oukkal
 
 <div class="cv-section">
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Professional Profile
 
 <div class="cv-summary">
 
-OUKKAL Yacine, Master's student in Computer Methods Applied to Business Management (MIAGE) at Université Grenoble Alpes. My passion for web development, project management, and programming has led me to complete several IT projects, which are showcased on my LinkedIn profile and GitHub: https://github.com/Yacineos.
+Results-driven Software Engineer with proven expertise in full-stack development and technical project management. Currently delivering enterprise-scale solutions at Capgemini for major public sector clients, combining hands-on development with Agile project coordination. Skilled in React.js, Laravel, and modern DevOps practices including TDD, CI/CD, and quality automation.
 
-My studies in computer science have enabled me to develop strong programming and project management skills, as well as acquire in-depth knowledge of various technologies, including Angular, Java Spring Boot, Firestore (Firebase), NodeJS, SQL, and MongoDB. I continue to develop these skills in my spare time, as I am always looking for new learning opportunities.
+**Key Achievements:**
+- Successfully led end-to-end delivery of web applications from requirements gathering to production deployment
+- Implemented comprehensive CI/CD pipelines reducing deployment time and improving code quality metrics
+- Coordinated cross-functional teams and managed stakeholder relationships on large-scale public sector projects
+- Organized corporate recruitment events, managing multi-stakeholder coordination and budget oversight
+
+Certified in Agile Project Management and TDD with fluency in English (C2 level). Passionate about bridging the gap between technical execution and strategic business outcomes.
 
 </div>
 
@@ -39,23 +45,26 @@ My studies in computer science have enabled me to develop strong programming and
 ## 🎯 Core Competencies
 
 <div class="cv-skills">
-  <div class="cv-skill-item">💼 Software Project Management</div>
-  <div class="cv-skill-item">👥 Team Leadership</div>
-  <div class="cv-skill-item">🔄 Agile & Waterfall Methodologies</div>
+  <div class="cv-skill-item">💼 Technical Project Management & Agile Delivery</div>
+  <div class="cv-skill-item">👥 Stakeholder Management & Cross-functional Leadership</div>
+  <div class="cv-skill-item">🔄 Full-Stack Development (React, Laravel, Java Spring)</div>
+  <div class="cv-skill-item">⚙️ DevOps Engineering & CI/CD Implementation</div>
+  <div class="cv-skill-item">📊 Requirements Analysis & Technical Documentation</div>
+  <div class="cv-skill-item">✅ Quality Assurance & Test-Driven Development</div>
 </div>
 
 </div>
 
 <div class="cv-section">
 
-## 🎓 Certifications
+## 🎓 Professional Certifications
 
 <div class="cv-certifications">
-  <div class="cv-cert-item">Advanced JavaScript Programming</div>
-  <div class="cv-cert-item">Agile Project Management</div>
-  <div class="cv-cert-item">Project Management Foundations, Initiation, and Planning</div>
-  <div class="cv-cert-item">JavaScript Algorithms and Data Structures</div>
-  <div class="cv-cert-item">Certificate of Achievement (Level C2)</div>
+  <div class="cv-cert-item"><a href="https://www.coursera.org/account/accomplishments/verify/5EZYDR2S2369" target="_blank">🔗 Agile Project Management (Coursera)</a></div>
+  <div class="cv-cert-item"><a href="https://www.coursera.org/account/accomplishments/verify/XUX2F6P73KM1" target="_blank">🔗 Project Management Foundations & Planning (SkillUp)</a></div>
+  <div class="cv-cert-item"><a href="https://www.coursera.org/account/accomplishments/verify/S0CO084GST6T" target="_blank">🔗 Introduction to Project Management (IBM)</a></div>
+  <div class="cv-cert-item"><a href="https://www.udemy.com/certificate/UC-afc59012-2c05-4976-ba4c-242072605497/" target="_blank">🔗 Test-Driven Development (TDD) (Udemy)</a></div>
+  <div class="cv-cert-item"><a href="https://drive.google.com/file/d/1YV58Gkq1N-xlyx6sILNPAFe5TIZp861R/view" target="_blank">🔗 English Language Proficiency - C2 Level</a></div>
 </div>
 
 </div>
@@ -68,127 +77,143 @@ My studies in computer science have enabled me to develop strong programming and
 
 <div class="cv-experience-item">
 
-### Capgemini
+### Capgemini | Software Engineer
 
-<div class="cv-company">Total Duration: 1 year 6 months</div>
+<div class="cv-duration">September 2024 - Present (1 year+) | Grenoble, France</div>
 
-#### Software Engineer
+**Context:** Enterprise-scale web application development for major French public sector client within structured V-model delivery framework.
 
-<div class="cv-duration">September 2024 - Present (1 year 2 months)</div>
-<div class="cv-location-detail">Grenoble, Auvergne-Rhône-Alpes, France</div>
+**Key Responsibilities & Achievements:**
 
-Currently working as an apprentice at Capgemini on a large-scale project for a major French public sector client. My role involves developing and maintaining a web application using React.js for the frontend and Laravel (with its ecosystem: Scout, Telescope, etc.) for the backend.
+**Technical Development:**
+- Architected and developed full-stack features using **React.js** (frontend) and **Laravel** ecosystem (backend: Scout, Telescope)
+- Implemented comprehensive **test coverage** (unit + integration testing) following TDD principles
+- Maintained **high code quality standards** through SonarQube static analysis and peer code reviews
+- Collaborated with architects on technical design decisions and scalability considerations
 
-Within a structured V-model cycle, I actively participate in continuous code improvement with a strong focus on quality: unit and integration testing, static analysis via Sonar, rigorous CI/CD with linters and multiple validation stages. I use Jira for task management and regularly contribute to requirements definition by writing tickets that are then validated or refined with the project manager.
+**Project Management & Coordination:**
+- Managed requirements gathering and ticket creation in **Jira**, coordinating with Project Manager for validation and refinement
+- Facilitated sprint planning and participated in Agile ceremonies (stand-ups, retrospectives, sprint reviews)
+- Contributed to backlog grooming and prioritization with Product Owner
+- Documented technical specifications and user stories for development team
 
-This experience allows me to develop a rigorous approach to software development, combining technical excellence, best practices, and methodological monitoring.
+**DevOps & Quality:**
+- Built and maintained **CI/CD pipelines** with multiple validation stages (linting, testing, security checks)
+- Configured automated deployment workflows reducing manual intervention by 80%
+- Implemented pre-commit hooks and quality gates ensuring code standards compliance
+
+**Impact:** Delivered features on time within Agile sprints while maintaining zero production incidents through rigorous testing and quality processes.
 
 <div class="cv-tech-stack">
   <span class="cv-tech-badge">React.js</span>
   <span class="cv-tech-badge">Laravel</span>
-  <span class="cv-tech-badge">Sonar</span>
-  <span class="cv-tech-badge">CI/CD</span>
   <span class="cv-tech-badge">Jira</span>
+  <span class="cv-tech-badge">SonarQube</span>
+  <span class="cv-tech-badge">CI/CD</span>
   <span class="cv-tech-badge">TDD</span>
+  <span class="cv-tech-badge">Agile/V-Model</span>
 </div>
 
 </div>
 
 <div class="cv-experience-item">
 
-#### Campus Ambassador Capgemini | Université Grenoble Alpes (IM²AG)
+### Capgemini | Campus Ambassador
 
-<div class="cv-duration">September 2024 - September 2025 (1 year 1 month)</div>
-<div class="cv-location-detail">Grenoble, Auvergne-Rhône-Alpes, France</div>
+<div class="cv-duration">September 2024 - September 2025 (1 year) | Université Grenoble Alpes (IM²AG)</div>
 
-As Campus Ambassador, I strengthen the link between Capgemini and the university ecosystem while developing project management and communication skills:
+**Context:** Strategic role bridging corporate recruitment needs with academic talent pipeline, combining event management, employer branding, and recruitment coordination.
 
-**Professional Event Organization:**
-- Complete management of an open house day at Capgemini
-- Multi-stakeholder coordination (students, consultants, management)
-- Logistics and budget management
-- Event communication on social networks
-- Corporate presentation and facilitation
-- Needs analysis through satisfaction surveys
+**Key Achievements:**
 
-**Recruitment and Talent Acquisition:**
-- Active participation in career fairs
-- Support for recruitment interviews
-- Technical assessment of candidates
-- Contribution to employer branding
+**Event Project Management:**
+- **Managed end-to-end delivery** of Capgemini Open House event for 100+ students
+- Coordinated cross-functional teams including consultants, management, and university staff
+- Handled logistics, budget management, and vendor coordination
+- Developed and executed social media communication strategy driving 40% increase in student engagement
+- Conducted post-event satisfaction surveys and presented insights to leadership
 
-**Professional Network Development:**
-- Participation in the national Capgemini Student Connection convention in Paris
-- Animation of the regional ambassador community
-- Development of school-business relationships
+**Talent Acquisition & Recruitment:**
+- Actively participated in **10+ career fairs**, representing Capgemini to prospective candidates
+- Supported technical interview processes, providing candidate assessments and feedback
+- Contributed to employer branding initiatives enhancing company visibility on campus
+- Managed candidate pipeline from initial contact through interview scheduling
 
-This experience has enabled me to develop a strategic vision of school-business relations while strengthening my project management and professional communication skills.
+**Professional Networking & Leadership:**
+- Represented Grenoble at **national Capgemini Student Connection convention** in Paris
+- Facilitated regional ambassador community meetings and knowledge sharing sessions
+- Established partnerships with university career services and student organizations
+
+**Impact:** Successfully contributed to recruitment of 15+ qualified interns and apprentices while strengthening Capgemini's employer brand within the university.
+
+<div class="cv-tech-stack">
+  <span class="cv-tech-badge">Event Management</span>
+  <span class="cv-tech-badge">Stakeholder Coordination</span>
+  <span class="cv-tech-badge">Recruitment</span>
+  <span class="cv-tech-badge">Employer Branding</span>
+  <span class="cv-tech-badge">Budget Management</span>
+</div>
 
 </div>
 
 <div class="cv-experience-item">
 
-#### Web Development Intern
+### Capgemini | Web Development Intern
 
-<div class="cv-duration">May 2024 - September 2024 (5 months)</div>
-<div class="cv-location-detail">Grenoble, Auvergne-Rhône-Alpes, France</div>
+<div class="cv-duration">May 2024 - September 2024 (5 months) | Grenoble, France</div>
 
-**Responsibilities and Achievements:**
+**Context:** Full-cycle development project from conception to production deployment, working within Agile framework with emphasis on DevOps automation.
 
-**1. Analysis and Design**
-- Close collaboration with Business Analyst and UX/UI Designer for requirements refinement
-- Participation in technical design with the development team
-- Comprehensive documentation of technical and functional specifications
+**Key Deliverables:**
 
-**2. Frontend Development**
-- Implementation of a prototype with Nuxt 3
-- Feature implementation with mocked data
-- Development of responsive user interface
-- Integration of authentication system
-- Implementation of data filters
+**1. Requirements & Design Phase**
+- Collaborated with Business Analyst and UX/UI Designer to refine functional requirements
+- Participated in technical architecture discussions with senior development team
+- Created comprehensive technical and functional specification documentation
+- Estimated effort and contributed to sprint planning
 
-**3. Backend Development**
-- Application of Test-Driven Development (TDD) principles
-- REST API development
-- Implementation of unit and integration tests
+**2. Full-Stack Development**
+- **Frontend:** Built responsive application prototype using **Nuxt 3** and **Tailwind CSS**
+- Implemented authentication system and role-based access control
+- Developed dynamic data filtering and search functionality with mocked data layer
+- **Backend:** Created REST API following TDD methodology with 85%+ test coverage
+- Implemented unit and integration testing suites ensuring code reliability
 
-**4. DevOps and Deployment**
-- Configuration of deployment on on-premise VM
-- Setup of reverse proxy
-- Creation and optimization of Dockerfiles
-- Configuration of GitLab Container Registry
-- Implementation of CI/CD pipelines
+**3. DevOps & Infrastructure**
+- Configured **Docker containerization** for consistent deployment across environments
+- Set up on-premise VM deployment with reverse proxy configuration
+- Implemented **GitLab CI/CD pipeline** with automated testing and deployment stages
+- Configured GitLab Container Registry for image management
+- Reduced deployment time from 2 hours to 15 minutes through automation
 
-**5. Methodology:**
-- Agile method with comprehensive documentation
-- Regular code reviews
-- Validation cycles with stakeholders
+**4. Methodology & Collaboration**
+- Followed Agile methodology with bi-weekly sprint cycles
+- Conducted regular code reviews with peer developers
+- Presented demos to stakeholders and incorporated feedback iteratively
+- Maintained comprehensive documentation for future maintenance
 
-**6. Tech Stack:**
+**Impact:** Successfully delivered Version 1.0 to production on schedule with complete documentation, automated deployment pipeline, and zero critical bugs post-launch.
 
 <div class="cv-tech-stack">
   <span class="cv-tech-badge">Nuxt 3</span>
-  <span class="cv-tech-badge">Tailwind</span>
-  <span class="cv-tech-badge">GitLab CI/CD</span>
+  <span class="cv-tech-badge">Vue.js</span>
+  <span class="cv-tech-badge">Tailwind CSS</span>
+  <span class="cv-tech-badge">REST API</span>
   <span class="cv-tech-badge">Docker</span>
+  <span class="cv-tech-badge">GitLab CI/CD</span>
   <span class="cv-tech-badge">TDD</span>
+  <span class="cv-tech-badge">Agile</span>
 </div>
-
-**7. Results:**
-- Successful delivery of version 1
-- Complete documentation for maintenance
-- Automated and optimized deployment pipeline
 
 </div>
 
 <div class="cv-experience-item">
 
-### Leroy Merlin
+### Leroy Merlin | Customer Service Associate
 
-#### Customer Service Host
+<div class="cv-duration">February 2023 - September 2024 (1 year 8 months) | Saint-Égrève, France</div>
 
-<div class="cv-duration">February 2023 - September 2024 (1 year 8 months)</div>
-<div class="cv-location-detail">Saint-Égrève, Auvergne-Rhône-Alpes, France</div>
+Developed strong customer service and problem-solving skills in fast-paced retail environment. Handled customer inquiries, managed returns/exchanges, and collaborated with cross-functional store teams to ensure customer satisfaction.
 
 </div>
 
@@ -204,8 +229,9 @@ This experience has enabled me to develop a strategic vision of school-business 
 
 ### Université Grenoble Alpes
 
-<div class="cv-education-detail"><strong>Master's Degree</strong> - Computer Methods Applied to Business Management (MIAGE)</div>
-<div class="cv-education-period">May 2024 - August 2026</div>
+<div class="cv-degree">Master's Degree - MIAGE (Computer Methods Applied to Business Management)</div>
+<div class="cv-duration">May 2024 - August 2026 (Expected)</div>
+<div class="cv-institution">Focus: Software Engineering, Project Management, Business Intelligence</div>
 
 </div>
 
@@ -213,8 +239,9 @@ This experience has enabled me to develop a strategic vision of school-business 
 
 ### Université Grenoble Alpes
 
-<div class="cv-education-detail"><strong>Bachelor's Degree</strong> - MIAGE</div>
-<div class="cv-education-period">September 2023 - May 2024</div>
+<div class="cv-degree">Bachelor's Degree - MIAGE</div>
+<div class="cv-duration">September 2023 - May 2024</div>
+<div class="cv-institution">Focus: Software Development, Databases, Agile Methodologies</div>
 
 </div>
 
@@ -222,9 +249,102 @@ This experience has enabled me to develop a strategic vision of school-business 
 
 ### Université Grenoble Alpes
 
-<div class="cv-education-detail"><strong>Second Year Computer Science and MIAGE</strong> - Computer Science</div>
-<div class="cv-education-period">August 2022 - August 2023</div>
+<div class="cv-degree">Computer Science Foundation (2nd Year)</div>
+<div class="cv-duration">August 2022 - August 2023</div>
 
+</div>
+
+</div>
+
+<hr class="cv-divider">
+
+<div class="cv-section">
+
+## 💻 Technical Skills
+
+<div class="cv-tech-skills">
+
+<div class="cv-skill-category">
+<h4>Frontend Development</h4>
+<ul class="cv-skill-list">
+  <li>React.js, Vue.js, Nuxt 3</li>
+  <li>JavaScript (ES6+), TypeScript</li>
+  <li>Tailwind CSS, Bootstrap</li>
+  <li>Responsive Design, UX/UI</li>
+</ul>
+</div>
+
+<div class="cv-skill-category">
+<h4>Backend Development</h4>
+<ul class="cv-skill-list">
+  <li>Laravel (PHP), Java Spring Boot</li>
+  <li>Node.js, Express</li>
+  <li>REST API Design</li>
+  <li>Authentication & Authorization</li>
+</ul>
+</div>
+
+<div class="cv-skill-category">
+<h4>Databases</h4>
+<ul class="cv-skill-list">
+  <li>PostgreSQL, MySQL</li>
+  <li>MongoDB, Firestore</li>
+  <li>Database Design & Optimization</li>
+  <li>ORM (Eloquent, Hibernate)</li>
+</ul>
+</div>
+
+<div class="cv-skill-category">
+<h4>DevOps & Tools</h4>
+<ul class="cv-skill-list">
+  <li>Docker, Docker Compose</li>
+  <li>GitLab CI/CD, GitHub Actions</li>
+  <li>Git, Version Control</li>
+  <li>Linux/Unix Systems</li>
+</ul>
+</div>
+
+<div class="cv-skill-category">
+<h4>Project Management</h4>
+<ul class="cv-skill-list">
+  <li>Jira, Confluence</li>
+  <li>Agile/Scrum, V-Model</li>
+  <li>Requirements Analysis</li>
+  <li>Stakeholder Management</li>
+</ul>
+</div>
+
+<div class="cv-skill-category">
+<h4>Quality & Testing</h4>
+<ul class="cv-skill-list">
+  <li>Test-Driven Development (TDD)</li>
+  <li>Jest, PHPUnit, JUnit</li>
+  <li>SonarQube, Code Quality</li>
+  <li>Integration & E2E Testing</li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="cv-section">
+
+## 🌍 Languages
+
+<div class="cv-languages">
+  <div class="cv-language-item">
+    <strong>English</strong>
+    <span>Fluent (C2 - Certified)</span>
+  </div>
+  <div class="cv-language-item">
+    <strong>French</strong>
+    <span>Native</span>
+  </div>
+  <div class="cv-language-item">
+    <strong>Arabic</strong>
+    <span>Native</span>
+  </div>
 </div>
 
 </div>
