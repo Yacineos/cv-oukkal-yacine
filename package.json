@@ -2,6 +2,7 @@
   "name": "cv-oukkal-yacine",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "devDependencies": {
     "vitepress": "^2.0.0-alpha.12",
     "gh-pages": "^5.0.0"
